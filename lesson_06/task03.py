@@ -10,3 +10,4 @@ for l in list_1:
     if l < 0:
         print(list_1.index(l) + 1)
         break
+
